@@ -1,1 +1,1 @@
-console.log("suman")
+console.log(10 + '5' - 2)
