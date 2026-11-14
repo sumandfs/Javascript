@@ -23,5 +23,9 @@ console.log(booleanislogedin)
 
 let somenumber= 33
 let stringnumber= String(somenumber)
-console.log(stringnumber)
-console.log(typeof stringnumber);
+// console.log(stringnumber)
+// console.log(typeof stringnumber);
+// console.log(10 + "5" - 2)
+// console.log (1+2+"2")
+// console.log("1"+2+2)
+console.log(10 + "5" - 2)
