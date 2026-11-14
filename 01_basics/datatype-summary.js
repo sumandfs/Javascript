@@ -42,3 +42,6 @@ const myfunction =function(){
 }
 
 console.log(typeof anotherid)
+
+
+
